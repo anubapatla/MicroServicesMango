@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "Mango.Services.CouponAPi.Controllers.CouponAPIController",
+    "Method": "Get",
+    "RelativePath": "api/CouponAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Mango.Services.CouponAPi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
