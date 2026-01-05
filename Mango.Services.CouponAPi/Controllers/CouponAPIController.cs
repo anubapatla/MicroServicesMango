@@ -11,7 +11,7 @@ namespace Mango.Services.CouponAPi.Controllers
     public class CouponAPIController : ControllerBase
     {
         private readonly AppDbContext _db;
-        public CouponAPIController( AppDbContext db)
+        public CouponAPIController(AppDbContext db)
         {
             _db = db;
         }
@@ -22,10 +22,27 @@ namespace Mango.Services.CouponAPi.Controllers
             {
                 IEnumerable<Coupon> objList = _db.Coupons.ToList();
                 return objList;
-            }catch(Exception ex)
+            }
+            catch (Exception ex)
             {
 
-            }return null;
+            }
+            return null;
+        }
+        [HttpGet]
+        [Route("{id:int}")]
+        public object Get(int id)
+        {
+            try
+            {
+                Coupon objList = _db.Coupons.First(u => u.CouponId == id);
+                return objList;
+            }
+            catch (Exception ex)
+            {
+
+            }
+            return null;
         }
     }
 }
