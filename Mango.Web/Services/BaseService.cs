@@ -49,7 +49,7 @@ namespace Mango.Web.Services
                         message.Method = HttpMethod.Post;
                         break;
                 }
-                apiResponse = await client.SendAsync(message);
+                apiResponse = await cli.SendAsync(message);
                 switch (apiResponse.StatusCode)
                 {
                     case HttpStatusCode.NotFound:
