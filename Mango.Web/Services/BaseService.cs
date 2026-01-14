@@ -1,4 +1,4 @@
-﻿using Mango.Web.Model;
+﻿
 using Mango.Web.Models;
 using Mango.Web.Services.IService;
 using Newtonsoft.Json;
@@ -49,7 +49,7 @@ namespace Mango.Web.Services
                         message.Method = HttpMethod.Post;
                         break;
                 }
-                apiResponse = await cli.SendAsync(message);
+                apiResponse = await client.SendAsync(message);
                 switch (apiResponse.StatusCode)
                 {
                     case HttpStatusCode.NotFound:
