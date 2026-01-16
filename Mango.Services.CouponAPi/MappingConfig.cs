@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Mango.Services.CouponAPi.Model;
 using Mango.Services.CouponAPi.Model.Dto;
-using Mango.Web.Models;
+
 
 namespace Mango.Services.CouponAPi
 {

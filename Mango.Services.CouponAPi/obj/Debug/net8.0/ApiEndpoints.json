@@ -29,7 +29,7 @@
     "Parameters": [
       {
         "Name": "couponDto",
-        "Type": "Mango.Web.Models.CouponDto",
+        "Type": "Mango.Services.CouponAPi.Model.Dto.CouponDto",
         "IsRequired": true
       }
     ],
@@ -55,7 +55,7 @@
     "Parameters": [
       {
         "Name": "couponDto",
-        "Type": "Mango.Web.Models.CouponDto",
+        "Type": "Mango.Services.CouponAPi.Model.Dto.CouponDto",
         "IsRequired": true
       }
     ],

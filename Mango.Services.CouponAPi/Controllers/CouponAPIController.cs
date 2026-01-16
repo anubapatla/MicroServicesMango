@@ -2,7 +2,7 @@
 using Mango.Services.CouponAPi.Data;
 using Mango.Services.CouponAPi.Model;
 using Mango.Services.CouponAPi.Model.Dto;
-using Mango.Web.Models;
+
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApplicationModels;

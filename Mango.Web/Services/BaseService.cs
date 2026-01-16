@@ -39,14 +39,14 @@ namespace Mango.Web.Services
                         message.Method = HttpMethod.Post;
                         break;
                     case ApiType.DELETE:
-                        message.Method = HttpMethod.Post;
+                        message.Method = HttpMethod.Delete;
                         break;
                     case ApiType.PUT:
-                        message.Method = HttpMethod.Post;
+                        message.Method = HttpMethod.Put;
                         break;
                     default:
 
-                        message.Method = HttpMethod.Post;
+                        message.Method = HttpMethod.Get;
                         break;
                 }
                 apiResponse = await client.SendAsync(message);
