@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\mango.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF091287-AA13-433C-8FDC-C836F40BA7CC}|Mango.Web\\Mango.Web.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FF091287-AA13-433C-8FDC-C836F40BA7CC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF091287-AA13-433C-8FDC-C836F40BA7CC}|Mango.Web\\Mango.Web.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF091287-AA13-433C-8FDC-C836F40BA7CC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01E65AB-537C-434E-954A-0458F8CECCD8}|Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Program.cs",
@@ -63,7 +63,8 @@
               "RelativeToolTip": "mango.Services.AuthAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T23:08:50.553Z"
+              "WhenOpened": "2026-01-31T23:08:50.553Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +76,8 @@
               "RelativeToolTip": "mango.Services.AuthAPI\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T23:30:50.842Z"
+              "WhenOpened": "2026-01-30T23:30:50.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
