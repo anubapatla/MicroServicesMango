@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace mango.Services.AuthAPI.Migrations
+namespace Mango.Services.CouponAPi.Migrations
 {
     /// <inheritdoc />
-    public partial class AddIdentityTables : Migration
+    public partial class AddName1ToAspNetUsers : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
