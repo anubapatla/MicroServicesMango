@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\git\\dotnet\\MangoMicroservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01E65AB-537C-434E-954A-0458F8CECCD8}|Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E01E65AB-537C-434E-954A-0458F8CECCD8}|Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\mango.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\mango.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Migrations\\20260203041230_AddNameToAspNetUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mango.Services.AuthAPI\\Migrations\\20260203041230_AddNameToAspNetUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF091287-AA13-433C-8FDC-C836F40BA7CC}|Mango.Web\\Mango.Web.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FF091287-AA13-433C-8FDC-C836F40BA7CC}|Mango.Web\\Mango.Web.csproj|solutionrelative:mango.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\mango.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\mango.services.authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E01E65AB-537C-434E-954A-0458F8CECCD8}|Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E01E65AB-537C-434E-954A-0458F8CECCD8}|Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj|solutionrelative:mango.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01E65AB-537C-434E-954A-0458F8CECCD8}|Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.couponapi\\mango.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,7 +54,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Mango.Web\\appsettings.json",
@@ -61,6 +69,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "mango.Services.AuthAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T03:40:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Program.cs",
+              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Program.cs",
+              "RelativeToolTip": "mango.Services.AuthAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T23:08:50.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mango.Services.AuthAPI.csproj",
+              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
+              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
+              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
+              "RelativeToolTip": "mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T17:43:54.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Services.CouponAPi\\Program.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPi\\Program.cs",
+              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Services.CouponAPi\\Program.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPi\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvwkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T23:10:42.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260203041230_AddNameToAspNetUsers.cs",
+              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Migrations\\20260203041230_AddNameToAspNetUsers.cs",
+              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Migrations\\20260203041230_AddNameToAspNetUsers.cs",
+              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Migrations\\20260203041230_AddNameToAspNetUsers.cs",
+              "RelativeToolTip": "mango.Services.AuthAPI\\Migrations\\20260203041230_AddNameToAspNetUsers.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T04:12:30.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Models\\ApplicationUser.cs",
@@ -73,20 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Program.cs",
-              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Program.cs",
-              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Program.cs",
-              "RelativeToolTip": "mango.Services.AuthAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T23:08:50.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Data\\AppDbContext.cs",
@@ -99,32 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "mango.Services.AuthAPI.csproj",
-              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
-              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
-              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
-              "RelativeToolTip": "mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-30T17:43:54.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Services.CouponAPi\\Program.cs",
-              "RelativeDocumentMoniker": "Mango.Services.CouponAPi\\Program.cs",
-              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Services.CouponAPi\\Program.cs",
-              "RelativeToolTip": "Mango.Services.CouponAPi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T23:10:42.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CouponController.cs",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Web\\Controllers\\CouponController.cs",
               "RelativeDocumentMoniker": "Mango.Web\\Controllers\\CouponController.cs",
@@ -137,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Mango.Services.CouponAPi.csproj",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj",
               "RelativeDocumentMoniker": "Mango.Services.CouponAPi\\Mango.Services.CouponAPi.csproj",
