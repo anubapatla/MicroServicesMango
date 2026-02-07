@@ -148,8 +148,11 @@ C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\refin
 C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\Mango.Services.CouponAPi.pdb
 C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\Mango.Services.CouponAPi.genruntimeconfig.cache
 C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\ref\Mango.Services.CouponAPi.dll
-C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets\msbuild.Mango.Services.CouponAPi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets\msbuild.build.Mango.Services.CouponAPi.props
-C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mango.Services.CouponAPi.props
-C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mango.Services.CouponAPi.props
-C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\bin\Debug\net8.0\Mango.Services.CouponAPi.staticwebassets.endpoints.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\git\dotnet\MangoMicroservices\Mango.Services.CouponAPi\obj\Debug\net8.0\swae.build.ex.cache

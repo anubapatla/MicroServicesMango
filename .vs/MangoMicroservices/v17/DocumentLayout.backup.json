@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\git\\dotnet\\MangoMicroservices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\service\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|solutionrelative:mango.services.authapi\\models\\dto\\registrationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77C5EB5C-01E8-4995-A20C-142E263E370C}|mango.Services.AuthAPI\\mango.Services.AuthAPI.csproj|c:\\git\\dotnet\\mangomicroservices\\mango.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -104,20 +104,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Service\\AuthService.cs",
               "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Service\\AuthService.cs",
               "RelativeToolTip": "mango.Services.AuthAPI\\Service\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T03:50:53.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Service\\Iservice\\IAuthService.cs",
               "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Service\\Iservice\\IAuthService.cs",
@@ -126,6 +126,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T03:02:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationRequestDto.cs",
+              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
+              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
+              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
+              "RelativeToolTip": "mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:24:13.458Z",
               "EditorCaption": ""
             },
             {
@@ -139,19 +152,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T19:52:06.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrationRequestDto.cs",
-              "DocumentMoniker": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
-              "RelativeDocumentMoniker": "mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
-              "ToolTip": "C:\\git\\dotnet\\MangoMicroservices\\mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
-              "RelativeToolTip": "mango.Services.AuthAPI\\Models\\DTO\\RegistrationRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T21:24:13.458Z",
               "EditorCaption": ""
             },
             {
