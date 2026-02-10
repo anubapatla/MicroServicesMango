@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace mango.Services.AuthAPI.Controllers
 {
+    [Route("api/auth")]
+    [ApiController]
     public class AuthAPIController : Controller
     {
         private readonly IAuthService _authService;
