@@ -9,12 +9,14 @@ namespace mango.Services.AuthAPI.Service
     public class AuthService : IAuthService
     {
         private readonly AppDbContext _db;
+        private readonly IJwtTokenGenerator _jwtTokenGenerator;
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
-        public AuthService(AppDbContext db,
+        public AuthService(AppDbContext db, IJwtTokenGenerator jwtTokenGenerator,
             UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             _db = db;
+            _jwtTokenGenerator = jwtTokenGenerator;
             _userManager = userManager;
             _roleManager = roleManager;
 
@@ -28,6 +30,7 @@ namespace mango.Services.AuthAPI.Service
             {
                 return new LoginResponseDto() { User = null, Token = "" };
             }//if user was found ,generate JWT Token
+            var token = _jwtTokenGenerator.GenerateToken(user);
             UserDto userDTO = new()
             {
                 Email = user.Email,
@@ -59,8 +62,7 @@ namespace mango.Services.AuthAPI.Service
                 var result =await _userManager.CreateAsync(user,registrationRequestDto.Password);
                 if(result.Succeeded)
                 {
-                    var userToReturn = _db.ApplicationUsers.
-                        First(u => u.UserName == registrationRequestDto.Email);
+                    var userToReturn = _db.ApplicationUsers.First(u => u.UserName == registrationRequestDto.Email);
                     UserDto userDto = new()
                     {
                         Email = userToReturn.Email,
